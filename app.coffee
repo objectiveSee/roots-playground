@@ -15,7 +15,7 @@ layouts:
 # Locals will be made available on every page. They can be
 # variables or (coffeescript) functions.
 locals:
-  title: 'Fuck you 2015!'
+  title: 'Goodbye 2015!'
   title_with_markup: ->
     "<h1 class='title'>Fuck you 2015!</h1>"
 
